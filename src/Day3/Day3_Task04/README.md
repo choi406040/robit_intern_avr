@@ -94,7 +94,7 @@ void Uart_Putch(int str){
 
 | 정면 동작 모습 | 
 | :---: |
-| ![Hardware Setup](https://naver.me/GtYnWlkw) |
+| (https://naver.me/GtYnWlkw) |
 
 ---
 
