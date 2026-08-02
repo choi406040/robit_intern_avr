@@ -96,7 +96,7 @@ void Uart_Putch(char *PutData){
 
 | 동작 모습 |
 | :---:
-| ![Hardware Setup](https://naver.me/FEg7jUd5) | 
+| (https://naver.me/FEg7jUd5) | 
 
 ---
 
